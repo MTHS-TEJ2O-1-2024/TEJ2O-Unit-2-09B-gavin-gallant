@@ -26,12 +26,11 @@ while True:
 
         # if random_number was 2
         if random_number == 2:
-            display.show(Image.
-                        "00900:"
-                        "09990:"
-                        "00990:"
-                        "00090:"
-                        "00090")
+            display.show(Image ("90090:"
+                                "09090:"
+                                "09090:"
+                                "09090:"
+                                "90090"))
 
         # pause and show you are ready again
         sleep(1000)
