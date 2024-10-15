@@ -42,6 +42,7 @@ while True:
         score = score + 1
         display.show(Image.YES)
         display.clear()
+        
         display.show(Image.HAPPY)
 
 

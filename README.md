@@ -11,7 +11,7 @@
 Run the following command in the terminal, where your *.py file is located:
 
 ```console
-black --check --diff ./*.py
+c
 ```
 ## To Build *.hex for Micro:bit using MicroPython
 
